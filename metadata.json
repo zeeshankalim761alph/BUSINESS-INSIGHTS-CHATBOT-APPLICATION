@@ -1,0 +1,5 @@
+{
+  "name": "BizInsight AI",
+  "description": "An intelligent business consultant chatbot offering insights on strategy, marketing, finance, and operations using Google Gemini.",
+  "requestFramePermissions": []
+}
